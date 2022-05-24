@@ -14,7 +14,7 @@ while True:
         cmd = cmd[:-2].decode('UTF-8')
         print(cmd)
         if cmd == '1':
-            webbrowser.open('https://classes.brilliantpala.org/learn/598/')
+            webbrowser.open('https://www.youtube.com/')
             print('Button 1 Pressed!!')
         elif cmd == '2':
             webbrowser.open('web.whatsapp.com/')
